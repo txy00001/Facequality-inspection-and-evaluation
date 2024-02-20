@@ -1,0 +1,259 @@
+20221221-13:22:14 ==================================================
+20221221-13:22:16 Train datast: ['IQIYI/iQIYI-VID-FACE/']
+20221221-13:22:16 Train dataset nums: 400000
+20221221-13:22:16 Val datast: ['IQIYI/iQIYI-VID-FACE/']
+20221221-13:22:16 Val dataset nums: 30026
+20221221-13:22:16 batch size: 256
+20221221-13:22:18 load ckpt: checkpoints/pretrain/045_ms1m_mid.ckpt
+20221221-13:23:17 Test set: Epoch: 99999, eye_loss: 0.0063, mouth_loss: 0.0028, acc_eye: 0.0562, acc_mouth: 0.2975,         Time:59.28s
+20221221-13:25:08 ==================================================
+20221221-13:25:11 Train datast: ['IQIYI/iQIYI-VID-FACE/']
+20221221-13:25:11 Train dataset nums: 400000
+20221221-13:25:11 Val datast: ['IQIYI/iQIYI-VID-FACE/']
+20221221-13:25:11 Val dataset nums: 30026
+20221221-13:25:11 batch size: 256
+20221221-13:25:12 load ckpt: checkpoints/pretrain/045_ms1m_mid.ckpt
+20221221-13:25:12 Train Epoch: 0/60 ...
+20221221-13:39:41 Train 0 total_loss: 0.4561 eye_loss: 0.3689 mouse_loss: 0.0872 lr: 0.001000 time: 14m 29s
+20221221-13:39:41 Saving checkpoint: 0
+20221221-13:40:54 Test set: Epoch: 0, eye_loss: 0.0011, mouth_loss: 0.0003, acc_eye: 0.9062, acc_mouth: 0.9778,         Time:73.46s
+20221221-13:40:54 Train Epoch: 1/60 ...
+20221221-13:56:02 Train 1 total_loss: 0.3933 eye_loss: 0.3212 mouse_loss: 0.0721 lr: 0.000999 time: 15m 7s
+20221221-13:56:02 Saving checkpoint: 1
+20221221-13:57:15 Test set: Epoch: 1, eye_loss: 0.0010, mouth_loss: 0.0003, acc_eye: 0.9117, acc_mouth: 0.9779,         Time:72.98s
+20221221-13:57:15 Train Epoch: 2/60 ...
+20221221-14:12:19 Train 2 total_loss: 0.3807 eye_loss: 0.3104 mouse_loss: 0.0703 lr: 0.000997 time: 15m 4s
+20221221-14:12:19 Saving checkpoint: 2
+20221221-14:13:31 Test set: Epoch: 2, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9145, acc_mouth: 0.9781,         Time:71.57s
+20221221-14:13:31 Train Epoch: 3/60 ...
+20221221-14:28:37 Train 3 total_loss: 0.3725 eye_loss: 0.3030 mouse_loss: 0.0695 lr: 0.000994 time: 15m 6s
+20221221-14:28:37 Saving checkpoint: 3
+20221221-14:29:49 Test set: Epoch: 3, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9148, acc_mouth: 0.9786,         Time:72.38s
+20221221-14:29:49 Train Epoch: 4/60 ...
+20221221-14:44:25 Train 4 total_loss: 0.3675 eye_loss: 0.2987 mouse_loss: 0.0688 lr: 0.000989 time: 14m 35s
+20221221-14:44:25 Saving checkpoint: 4
+20221221-14:45:23 Test set: Epoch: 4, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9162, acc_mouth: 0.9784,         Time:58.31s
+20221221-14:45:23 Train Epoch: 5/60 ...
+20221221-14:57:34 Train 5 total_loss: 0.3634 eye_loss: 0.2952 mouse_loss: 0.0682 lr: 0.000983 time: 12m 11s
+20221221-14:57:34 Saving checkpoint: 5
+20221221-14:58:35 Test set: Epoch: 5, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9184, acc_mouth: 0.9784,         Time:61.27s
+20221221-14:58:35 Train Epoch: 6/60 ...
+20221221-15:10:44 Train 6 total_loss: 0.3594 eye_loss: 0.2917 mouse_loss: 0.0677 lr: 0.000976 time: 12m 8s
+20221221-15:10:44 Saving checkpoint: 6
+20221221-15:11:41 Test set: Epoch: 6, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9188, acc_mouth: 0.9790,         Time:57.80s
+20221221-15:11:41 Train Epoch: 7/60 ...
+20221221-15:23:52 Train 7 total_loss: 0.3547 eye_loss: 0.2873 mouse_loss: 0.0674 lr: 0.000967 time: 12m 11s
+20221221-15:23:52 Saving checkpoint: 7
+20221221-15:24:50 Test set: Epoch: 7, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9208, acc_mouth: 0.9788,         Time:57.84s
+20221221-15:24:50 Train Epoch: 8/60 ...
+20221221-15:36:59 Train 8 total_loss: 0.3526 eye_loss: 0.2857 mouse_loss: 0.0669 lr: 0.000957 time: 12m 9s
+20221221-15:36:59 Saving checkpoint: 8
+20221221-15:37:59 Test set: Epoch: 8, eye_loss: 0.0009, mouth_loss: 0.0003, acc_eye: 0.9204, acc_mouth: 0.9781,         Time:59.79s
+20221221-15:37:59 Train Epoch: 9/60 ...
+20221221-15:50:08 Train 9 total_loss: 0.3507 eye_loss: 0.2839 mouse_loss: 0.0668 lr: 0.000946 time: 12m 9s
+20221221-15:50:08 Saving checkpoint: 9
+20221221-15:51:06 Test set: Epoch: 9, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9224, acc_mouth: 0.9791,         Time:58.36s
+20221221-15:51:06 Train Epoch: 10/60 ...
+20221221-16:03:19 Train 10 total_loss: 0.3476 eye_loss: 0.2813 mouse_loss: 0.0663 lr: 0.000933 time: 12m 13s
+20221221-16:03:19 Saving checkpoint: 10
+20221221-16:04:18 Test set: Epoch: 10, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9224, acc_mouth: 0.9783,         Time:58.75s
+20221221-16:04:18 Train Epoch: 11/60 ...
+20221221-16:16:31 Train 11 total_loss: 0.3455 eye_loss: 0.2793 mouse_loss: 0.0662 lr: 0.000919 time: 12m 14s
+20221221-16:16:31 Saving checkpoint: 11
+20221221-16:17:29 Test set: Epoch: 11, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9219, acc_mouth: 0.9781,         Time:58.29s
+20221221-16:17:29 Train Epoch: 12/60 ...
+20221221-16:29:49 Train 12 total_loss: 0.3437 eye_loss: 0.2779 mouse_loss: 0.0659 lr: 0.000905 time: 12m 19s
+20221221-16:29:49 Saving checkpoint: 12
+20221221-16:30:48 Test set: Epoch: 12, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9231, acc_mouth: 0.9787,         Time:59.57s
+20221221-16:30:48 Train Epoch: 13/60 ...
+20221221-16:43:00 Train 13 total_loss: 0.3430 eye_loss: 0.2771 mouse_loss: 0.0659 lr: 0.000889 time: 12m 12s
+20221221-16:43:00 Saving checkpoint: 13
+20221221-16:43:58 Test set: Epoch: 13, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9221, acc_mouth: 0.9784,         Time:58.16s
+20221221-16:43:58 Train Epoch: 14/60 ...
+20221221-16:56:02 Train 14 total_loss: 0.3412 eye_loss: 0.2754 mouse_loss: 0.0658 lr: 0.000872 time: 12m 4s
+20221221-16:56:02 Saving checkpoint: 14
+20221221-16:57:01 Test set: Epoch: 14, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9255, acc_mouth: 0.9785,         Time:58.76s
+20221221-16:57:01 Train Epoch: 15/60 ...
+20221221-17:09:13 Train 15 total_loss: 0.3395 eye_loss: 0.2740 mouse_loss: 0.0655 lr: 0.000854 time: 12m 13s
+20221221-17:09:13 Saving checkpoint: 15
+20221221-17:10:12 Test set: Epoch: 15, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9222, acc_mouth: 0.9787,         Time:58.89s
+20221221-17:10:12 Train Epoch: 16/60 ...
+20221221-17:22:22 Train 16 total_loss: 0.3373 eye_loss: 0.2720 mouse_loss: 0.0653 lr: 0.000835 time: 12m 10s
+20221221-17:22:22 Saving checkpoint: 16
+20221221-17:23:20 Test set: Epoch: 16, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9247, acc_mouth: 0.9783,         Time:57.96s
+20221221-17:23:20 Train Epoch: 17/60 ...
+20221221-17:35:33 Train 17 total_loss: 0.3360 eye_loss: 0.2708 mouse_loss: 0.0653 lr: 0.000815 time: 12m 13s
+20221221-17:35:33 Saving checkpoint: 17
+20221221-17:36:32 Test set: Epoch: 17, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9243, acc_mouth: 0.9793,         Time:58.19s
+20221221-17:36:32 Train Epoch: 18/60 ...
+20221221-17:48:48 Train 18 total_loss: 0.3346 eye_loss: 0.2701 mouse_loss: 0.0645 lr: 0.000794 time: 12m 16s
+20221221-17:48:48 Saving checkpoint: 18
+20221221-17:49:45 Test set: Epoch: 18, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9228, acc_mouth: 0.9789,         Time:57.45s
+20221221-17:49:45 Train Epoch: 19/60 ...
+20221221-18:01:58 Train 19 total_loss: 0.3344 eye_loss: 0.2698 mouse_loss: 0.0647 lr: 0.000772 time: 12m 13s
+20221221-18:01:58 Saving checkpoint: 19
+20221221-18:02:57 Test set: Epoch: 19, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9247, acc_mouth: 0.9785,         Time:58.21s
+20221221-18:02:57 Train Epoch: 20/60 ...
+20221221-18:15:10 Train 20 total_loss: 0.3326 eye_loss: 0.2681 mouse_loss: 0.0645 lr: 0.000750 time: 12m 13s
+20221221-18:15:10 Saving checkpoint: 20
+20221221-18:16:08 Test set: Epoch: 20, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9254, acc_mouth: 0.9787,         Time:58.29s
+20221221-18:16:08 Train Epoch: 21/60 ...
+20221221-18:28:22 Train 21 total_loss: 0.3325 eye_loss: 0.2679 mouse_loss: 0.0646 lr: 0.000727 time: 12m 14s
+20221221-18:28:22 Saving checkpoint: 21
+20221221-18:29:21 Test set: Epoch: 21, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9243, acc_mouth: 0.9786,         Time:58.58s
+20221221-18:29:21 Train Epoch: 22/60 ...
+20221221-18:41:34 Train 22 total_loss: 0.3296 eye_loss: 0.2654 mouse_loss: 0.0642 lr: 0.000703 time: 12m 13s
+20221221-18:41:34 Saving checkpoint: 22
+20221221-18:42:33 Test set: Epoch: 22, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9267, acc_mouth: 0.9786,         Time:58.87s
+20221221-18:42:33 Train Epoch: 23/60 ...
+20221221-18:54:44 Train 23 total_loss: 0.3297 eye_loss: 0.2655 mouse_loss: 0.0643 lr: 0.000679 time: 12m 11s
+20221221-18:54:44 Saving checkpoint: 23
+20221221-18:55:42 Test set: Epoch: 23, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9253, acc_mouth: 0.9794,         Time:57.83s
+20221221-18:55:42 Train Epoch: 24/60 ...
+20221221-19:07:53 Train 24 total_loss: 0.3288 eye_loss: 0.2649 mouse_loss: 0.0638 lr: 0.000655 time: 12m 11s
+20221221-19:07:53 Saving checkpoint: 24
+20221221-19:08:52 Test set: Epoch: 24, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9230, acc_mouth: 0.9787,         Time:59.12s
+20221221-19:08:52 Train Epoch: 25/60 ...
+20221221-19:21:08 Train 25 total_loss: 0.3279 eye_loss: 0.2637 mouse_loss: 0.0642 lr: 0.000629 time: 12m 16s
+20221221-19:21:08 Saving checkpoint: 25
+20221221-19:22:06 Test set: Epoch: 25, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9256, acc_mouth: 0.9793,         Time:57.95s
+20221221-19:22:06 Train Epoch: 26/60 ...
+20221221-19:34:21 Train 26 total_loss: 0.3277 eye_loss: 0.2639 mouse_loss: 0.0637 lr: 0.000604 time: 12m 15s
+20221221-19:34:21 Saving checkpoint: 26
+20221221-19:35:20 Test set: Epoch: 26, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9262, acc_mouth: 0.9794,         Time:58.60s
+20221221-19:35:20 Train Epoch: 27/60 ...
+20221221-19:47:37 Train 27 total_loss: 0.3274 eye_loss: 0.2637 mouse_loss: 0.0637 lr: 0.000578 time: 12m 17s
+20221221-19:47:37 Saving checkpoint: 27
+20221221-19:48:36 Test set: Epoch: 27, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9238, acc_mouth: 0.9787,         Time:58.74s
+20221221-19:48:36 Train Epoch: 28/60 ...
+20221221-20:00:42 Train 28 total_loss: 0.3264 eye_loss: 0.2627 mouse_loss: 0.0637 lr: 0.000552 time: 12m 6s
+20221221-20:00:42 Saving checkpoint: 28
+20221221-20:01:40 Test set: Epoch: 28, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9248, acc_mouth: 0.9788,         Time:58.57s
+20221221-20:01:40 Train Epoch: 29/60 ...
+20221221-20:13:48 Train 29 total_loss: 0.3249 eye_loss: 0.2613 mouse_loss: 0.0636 lr: 0.000526 time: 12m 7s
+20221221-20:13:48 Saving checkpoint: 29
+20221221-20:14:46 Test set: Epoch: 29, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9280, acc_mouth: 0.9792,         Time:58.65s
+20221221-20:14:46 Train Epoch: 30/60 ...
+20221221-20:26:54 Train 30 total_loss: 0.3245 eye_loss: 0.2612 mouse_loss: 0.0633 lr: 0.000500 time: 12m 8s
+20221221-20:26:54 Saving checkpoint: 30
+20221221-20:27:53 Test set: Epoch: 30, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9260, acc_mouth: 0.9788,         Time:58.60s
+20221221-20:27:53 Train Epoch: 31/60 ...
+20221221-20:40:20 Train 31 total_loss: 0.3239 eye_loss: 0.2603 mouse_loss: 0.0636 lr: 0.000474 time: 12m 28s
+20221221-20:40:20 Saving checkpoint: 31
+20221221-20:41:18 Test set: Epoch: 31, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9273, acc_mouth: 0.9785,         Time:57.86s
+20221221-20:41:18 Train Epoch: 32/60 ...
+20221221-20:53:30 Train 32 total_loss: 0.3231 eye_loss: 0.2596 mouse_loss: 0.0635 lr: 0.000448 time: 12m 11s
+20221221-20:53:30 Saving checkpoint: 32
+20221221-20:54:28 Test set: Epoch: 32, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9268, acc_mouth: 0.9784,         Time:57.97s
+20221221-20:54:28 Train Epoch: 33/60 ...
+20221221-21:06:40 Train 33 total_loss: 0.3233 eye_loss: 0.2598 mouse_loss: 0.0635 lr: 0.000422 time: 12m 12s
+20221221-21:06:40 Saving checkpoint: 33
+20221221-21:07:39 Test set: Epoch: 33, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9249, acc_mouth: 0.9785,         Time:58.94s
+20221221-21:07:39 Train Epoch: 34/60 ...
+20221221-21:19:51 Train 34 total_loss: 0.3217 eye_loss: 0.2585 mouse_loss: 0.0632 lr: 0.000396 time: 12m 12s
+20221221-21:19:51 Saving checkpoint: 34
+20221221-21:20:49 Test set: Epoch: 34, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9268, acc_mouth: 0.9790,         Time:58.67s
+20221221-21:20:49 Train Epoch: 35/60 ...
+20221221-21:33:01 Train 35 total_loss: 0.3212 eye_loss: 0.2581 mouse_loss: 0.0631 lr: 0.000371 time: 12m 12s
+20221221-21:33:01 Saving checkpoint: 35
+20221221-21:33:59 Test set: Epoch: 35, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9268, acc_mouth: 0.9787,         Time:57.69s
+20221221-21:33:59 Train Epoch: 36/60 ...
+20221221-21:46:10 Train 36 total_loss: 0.3216 eye_loss: 0.2580 mouse_loss: 0.0636 lr: 0.000345 time: 12m 11s
+20221221-21:46:10 Saving checkpoint: 36
+20221221-21:47:09 Test set: Epoch: 36, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9264, acc_mouth: 0.9793,         Time:58.52s
+20221221-21:47:09 Train Epoch: 37/60 ...
+20221221-21:59:24 Train 37 total_loss: 0.3201 eye_loss: 0.2571 mouse_loss: 0.0630 lr: 0.000321 time: 12m 15s
+20221221-21:59:24 Saving checkpoint: 37
+20221221-22:00:23 Test set: Epoch: 37, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9266, acc_mouth: 0.9788,         Time:59.04s
+20221221-22:00:23 Train Epoch: 38/60 ...
+20221221-22:12:33 Train 38 total_loss: 0.3213 eye_loss: 0.2583 mouse_loss: 0.0630 lr: 0.000297 time: 12m 10s
+20221221-22:12:33 Saving checkpoint: 38
+20221221-22:13:31 Test set: Epoch: 38, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9283, acc_mouth: 0.9788,         Time:58.03s
+20221221-22:13:31 Train Epoch: 39/60 ...
+20221221-22:25:45 Train 39 total_loss: 0.3205 eye_loss: 0.2574 mouse_loss: 0.0631 lr: 0.000273 time: 12m 14s
+20221221-22:25:45 Saving checkpoint: 39
+20221221-22:26:46 Test set: Epoch: 39, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9274, acc_mouth: 0.9790,         Time:60.56s
+20221221-22:26:46 Train Epoch: 40/60 ...
+20221221-22:38:55 Train 40 total_loss: 0.3194 eye_loss: 0.2564 mouse_loss: 0.0630 lr: 0.000250 time: 12m 9s
+20221221-22:38:55 Saving checkpoint: 40
+20221221-22:39:55 Test set: Epoch: 40, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9272, acc_mouth: 0.9793,         Time:59.62s
+20221221-22:39:55 Train Epoch: 41/60 ...
+20221221-22:52:09 Train 41 total_loss: 0.3197 eye_loss: 0.2568 mouse_loss: 0.0629 lr: 0.000228 time: 12m 14s
+20221221-22:52:09 Saving checkpoint: 41
+20221221-22:53:08 Test set: Epoch: 41, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9266, acc_mouth: 0.9792,         Time:59.01s
+20221221-22:53:08 Train Epoch: 42/60 ...
+20221221-23:05:19 Train 42 total_loss: 0.3187 eye_loss: 0.2559 mouse_loss: 0.0628 lr: 0.000206 time: 12m 11s
+20221221-23:05:19 Saving checkpoint: 42
+20221221-23:06:17 Test set: Epoch: 42, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9255, acc_mouth: 0.9793,         Time:58.73s
+20221221-23:06:17 Train Epoch: 43/60 ...
+20221221-23:18:23 Train 43 total_loss: 0.3172 eye_loss: 0.2546 mouse_loss: 0.0626 lr: 0.000185 time: 12m 6s
+20221221-23:18:23 Saving checkpoint: 43
+20221221-23:19:21 Test set: Epoch: 43, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9263, acc_mouth: 0.9792,         Time:57.71s
+20221221-23:19:21 Train Epoch: 44/60 ...
+20221221-23:31:33 Train 44 total_loss: 0.3178 eye_loss: 0.2549 mouse_loss: 0.0629 lr: 0.000165 time: 12m 13s
+20221221-23:31:33 Saving checkpoint: 44
+20221221-23:32:32 Test set: Epoch: 44, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9279, acc_mouth: 0.9788,         Time:58.61s
+20221221-23:32:32 Train Epoch: 45/60 ...
+20221221-23:44:52 Train 45 total_loss: 0.3179 eye_loss: 0.2550 mouse_loss: 0.0628 lr: 0.000146 time: 12m 20s
+20221221-23:44:52 Saving checkpoint: 45
+20221221-23:45:51 Test set: Epoch: 45, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9281, acc_mouth: 0.9790,         Time:58.43s
+20221221-23:45:51 Train Epoch: 46/60 ...
+20221221-23:58:08 Train 46 total_loss: 0.3186 eye_loss: 0.2556 mouse_loss: 0.0629 lr: 0.000128 time: 12m 17s
+20221221-23:58:08 Saving checkpoint: 46
+20221221-23:59:06 Test set: Epoch: 46, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9280, acc_mouth: 0.9786,         Time:58.38s
+20221221-23:59:06 Train Epoch: 47/60 ...
+20221222-00:11:18 Train 47 total_loss: 0.3182 eye_loss: 0.2555 mouse_loss: 0.0627 lr: 0.000111 time: 12m 12s
+20221222-00:11:18 Saving checkpoint: 47
+20221222-00:12:16 Test set: Epoch: 47, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9267, acc_mouth: 0.9788,         Time:57.72s
+20221222-00:12:16 Train Epoch: 48/60 ...
+20221222-00:24:30 Train 48 total_loss: 0.3180 eye_loss: 0.2554 mouse_loss: 0.0626 lr: 0.000095 time: 12m 14s
+20221222-00:24:30 Saving checkpoint: 48
+20221222-00:25:28 Test set: Epoch: 48, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9273, acc_mouth: 0.9791,         Time:58.61s
+20221222-00:25:28 Train Epoch: 49/60 ...
+20221222-00:37:40 Train 49 total_loss: 0.3173 eye_loss: 0.2546 mouse_loss: 0.0627 lr: 0.000081 time: 12m 11s
+20221222-00:37:40 Saving checkpoint: 49
+20221222-00:38:39 Test set: Epoch: 49, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9258, acc_mouth: 0.9791,         Time:59.14s
+20221222-00:38:39 Train Epoch: 50/60 ...
+20221222-00:51:04 Train 50 total_loss: 0.3172 eye_loss: 0.2546 mouse_loss: 0.0626 lr: 0.000067 time: 12m 25s
+20221222-00:51:04 Saving checkpoint: 50
+20221222-00:52:03 Test set: Epoch: 50, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9269, acc_mouth: 0.9791,         Time:58.59s
+20221222-00:52:03 Train Epoch: 51/60 ...
+20221222-01:04:09 Train 51 total_loss: 0.3176 eye_loss: 0.2550 mouse_loss: 0.0626 lr: 0.000054 time: 12m 6s
+20221222-01:04:09 Saving checkpoint: 51
+20221222-01:05:08 Test set: Epoch: 51, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9264, acc_mouth: 0.9791,         Time:58.45s
+20221222-01:05:08 Train Epoch: 52/60 ...
+20221222-01:17:31 Train 52 total_loss: 0.3172 eye_loss: 0.2545 mouse_loss: 0.0626 lr: 0.000043 time: 12m 24s
+20221222-01:17:31 Saving checkpoint: 52
+20221222-01:18:31 Test set: Epoch: 52, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9282, acc_mouth: 0.9787,         Time:59.78s
+20221222-01:18:31 Train Epoch: 53/60 ...
+20221222-01:30:47 Train 53 total_loss: 0.3170 eye_loss: 0.2543 mouse_loss: 0.0627 lr: 0.000033 time: 12m 16s
+20221222-01:30:47 Saving checkpoint: 53
+20221222-01:31:45 Test set: Epoch: 53, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9274, acc_mouth: 0.9786,         Time:58.18s
+20221222-01:31:45 Train Epoch: 54/60 ...
+20221222-01:44:02 Train 54 total_loss: 0.3168 eye_loss: 0.2545 mouse_loss: 0.0623 lr: 0.000024 time: 12m 16s
+20221222-01:44:02 Saving checkpoint: 54
+20221222-01:45:00 Test set: Epoch: 54, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9253, acc_mouth: 0.9785,         Time:58.74s
+20221222-01:45:00 Train Epoch: 55/60 ...
+20221222-01:57:15 Train 55 total_loss: 0.3164 eye_loss: 0.2537 mouse_loss: 0.0627 lr: 0.000017 time: 12m 15s
+20221222-01:57:15 Saving checkpoint: 55
+20221222-01:58:14 Test set: Epoch: 55, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9285, acc_mouth: 0.9789,         Time:58.23s
+20221222-01:58:14 Train Epoch: 56/60 ...
+20221222-02:10:25 Train 56 total_loss: 0.3165 eye_loss: 0.2541 mouse_loss: 0.0624 lr: 0.000011 time: 12m 11s
+20221222-02:10:25 Saving checkpoint: 56
+20221222-02:11:23 Test set: Epoch: 56, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9279, acc_mouth: 0.9792,         Time:58.33s
+20221222-02:11:23 Train Epoch: 57/60 ...
+20221222-02:23:32 Train 57 total_loss: 0.3164 eye_loss: 0.2540 mouse_loss: 0.0624 lr: 0.000006 time: 12m 9s
+20221222-02:23:32 Saving checkpoint: 57
+20221222-02:24:31 Test set: Epoch: 57, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9272, acc_mouth: 0.9792,         Time:58.88s
+20221222-02:24:31 Train Epoch: 58/60 ...
+20221222-02:36:44 Train 58 total_loss: 0.3160 eye_loss: 0.2536 mouse_loss: 0.0624 lr: 0.000003 time: 12m 14s
+20221222-02:36:44 Saving checkpoint: 58
+20221222-02:37:43 Test set: Epoch: 58, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9274, acc_mouth: 0.9791,         Time:58.56s
+20221222-02:37:43 Train Epoch: 59/60 ...
+20221222-02:49:54 Train 59 total_loss: 0.3169 eye_loss: 0.2543 mouse_loss: 0.0626 lr: 0.000001 time: 12m 11s
+20221222-02:49:54 Saving checkpoint: 59
+20221222-02:50:53 Test set: Epoch: 59, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9275, acc_mouth: 0.9792,         Time:59.05s
+20221222-02:50:53 Train Epoch: 60/60 ...
+20221222-03:03:01 Train 60 total_loss: 0.3166 eye_loss: 0.2542 mouse_loss: 0.0624 lr: 0.000001 time: 12m 8s
+20221222-03:03:01 Saving checkpoint: 60
+20221222-03:04:00 Test set: Epoch: 60, eye_loss: 0.0008, mouth_loss: 0.0003, acc_eye: 0.9272, acc_mouth: 0.9788,         Time:58.52s

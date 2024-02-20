@@ -1,0 +1,272 @@
+20221219-15:57:10 ==================================================
+20221219-15:57:11 Train datast: ['IQIYI/iQIYI-VID-FACE/']
+20221219-15:57:11 Train dataset nums: 400000
+20221219-15:57:11 Val datast: ['IQIYI/iQIYI-VID-FACE/']
+20221219-15:57:11 Val dataset nums: 30026
+20221219-15:57:11 batch size: 256
+20221219-15:57:12 load ckpt: checkpoints/pretrain/044_ms1m_low.ckpt
+20221219-15:57:12 Train Epoch: 0/60 ...
+20221219-16:04:13 Train 0 total_loss: 0.1461 lr: 0.001000 time: 7m 1s
+20221219-16:04:13 Saving checkpoint: 0
+20221219-16:04:29 Test set: Epoch: 0, Average mse loss: 0.1412, Time:16.13s
+20221219-16:04:29 Train Epoch: 1/60 ...
+20221219-16:06:04 Train 1 total_loss: 0.1437 lr: 0.000999 time: 1m 35s
+20221219-16:06:04 Saving checkpoint: 1
+20221219-16:06:09 Test set: Epoch: 1, Average mse loss: 0.1410, Time:4.77s
+20221219-16:06:09 Train Epoch: 2/60 ...
+20221219-16:07:44 Train 2 total_loss: 0.1436 lr: 0.000997 time: 1m 35s
+20221219-16:07:44 Saving checkpoint: 2
+20221219-16:07:48 Test set: Epoch: 2, Average mse loss: 0.1409, Time:4.82s
+20221219-16:07:48 Train Epoch: 3/60 ...
+20221219-16:09:26 Train 3 total_loss: 0.1435 lr: 0.000994 time: 1m 37s
+20221219-16:09:26 Saving checkpoint: 3
+20221219-16:09:31 Test set: Epoch: 3, Average mse loss: 0.1409, Time:4.83s
+20221219-16:09:31 Train Epoch: 4/60 ...
+20221219-16:11:05 Train 4 total_loss: 0.1435 lr: 0.000989 time: 1m 35s
+20221219-16:11:05 Saving checkpoint: 4
+20221219-16:11:11 Test set: Epoch: 4, Average mse loss: 0.1409, Time:5.18s
+20221219-16:11:11 Train Epoch: 5/60 ...
+20221219-16:12:51 Train 5 total_loss: 0.1435 lr: 0.000983 time: 1m 41s
+20221219-16:12:51 Saving checkpoint: 5
+20221219-16:12:56 Test set: Epoch: 5, Average mse loss: 0.1409, Time:4.83s
+20221219-16:12:56 Train Epoch: 6/60 ...
+20221219-16:14:32 Train 6 total_loss: 0.1435 lr: 0.000976 time: 1m 36s
+20221219-16:14:32 Saving checkpoint: 6
+20221219-16:14:37 Test set: Epoch: 6, Average mse loss: 0.1409, Time:4.98s
+20221219-16:14:37 Train Epoch: 7/60 ...
+20221219-16:16:17 Train 7 total_loss: 0.1435 lr: 0.000967 time: 1m 40s
+20221219-16:16:17 Saving checkpoint: 7
+20221219-16:16:21 Test set: Epoch: 7, Average mse loss: 0.1409, Time:4.89s
+20221219-16:16:21 Train Epoch: 8/60 ...
+20221219-16:17:55 Train 8 total_loss: 0.1435 lr: 0.000957 time: 1m 34s
+20221219-16:17:55 Saving checkpoint: 8
+20221219-16:18:00 Test set: Epoch: 8, Average mse loss: 0.1409, Time:4.87s
+20221219-16:18:00 Train Epoch: 9/60 ...
+20221219-16:19:35 Train 9 total_loss: 0.1435 lr: 0.000946 time: 1m 34s
+20221219-16:19:35 Saving checkpoint: 9
+20221219-16:19:40 Test set: Epoch: 9, Average mse loss: 0.1409, Time:5.03s
+20221219-16:19:40 Train Epoch: 10/60 ...
+20221219-16:21:14 Train 10 total_loss: 0.1435 lr: 0.000933 time: 1m 34s
+20221219-16:21:14 Saving checkpoint: 10
+20221219-16:21:19 Test set: Epoch: 10, Average mse loss: 0.1409, Time:4.78s
+20221219-16:21:19 Train Epoch: 11/60 ...
+20221219-16:22:54 Train 11 total_loss: 0.1435 lr: 0.000919 time: 1m 35s
+20221219-16:22:54 Saving checkpoint: 11
+20221219-16:22:58 Test set: Epoch: 11, Average mse loss: 0.1409, Time:4.75s
+20221219-16:22:58 Train Epoch: 12/60 ...
+20221219-16:24:33 Train 12 total_loss: 0.1435 lr: 0.000905 time: 1m 34s
+20221219-16:24:33 Saving checkpoint: 12
+20221219-16:24:37 Test set: Epoch: 12, Average mse loss: 0.1409, Time:4.72s
+20221219-16:24:37 Train Epoch: 13/60 ...
+20221219-16:26:12 Train 13 total_loss: 0.1435 lr: 0.000889 time: 1m 34s
+20221219-16:26:12 Saving checkpoint: 13
+20221219-16:26:17 Test set: Epoch: 13, Average mse loss: 0.1409, Time:5.00s
+20221219-16:26:17 Train Epoch: 14/60 ...
+20221219-16:27:54 Train 14 total_loss: 0.1435 lr: 0.000872 time: 1m 38s
+20221219-16:27:54 Saving checkpoint: 14
+20221219-16:27:59 Test set: Epoch: 14, Average mse loss: 0.1409, Time:4.99s
+20221219-16:27:59 Train Epoch: 15/60 ...
+20221219-16:29:34 Train 15 total_loss: 0.1435 lr: 0.000854 time: 1m 34s
+20221219-16:29:34 Saving checkpoint: 15
+20221219-16:29:39 Test set: Epoch: 15, Average mse loss: 0.1409, Time:4.77s
+20221219-16:29:39 Train Epoch: 16/60 ...
+20221219-16:31:17 Train 16 total_loss: 0.1435 lr: 0.000835 time: 1m 38s
+20221219-16:31:17 Saving checkpoint: 16
+20221219-16:31:21 Test set: Epoch: 16, Average mse loss: 0.1409, Time:4.67s
+20221219-16:31:21 Train Epoch: 17/60 ...
+20221219-16:32:56 Train 17 total_loss: 0.1435 lr: 0.000815 time: 1m 35s
+20221219-16:32:56 Saving checkpoint: 17
+20221219-16:33:01 Test set: Epoch: 17, Average mse loss: 0.1409, Time:4.71s
+20221219-16:33:01 Train Epoch: 18/60 ...
+20221219-16:34:35 Train 18 total_loss: 0.1435 lr: 0.000794 time: 1m 34s
+20221219-16:34:35 Saving checkpoint: 18
+20221219-16:34:40 Test set: Epoch: 18, Average mse loss: 0.1409, Time:4.89s
+20221219-16:34:40 Train Epoch: 19/60 ...
+20221219-16:36:19 Train 19 total_loss: 0.1435 lr: 0.000772 time: 1m 39s
+20221219-16:36:19 Saving checkpoint: 19
+20221219-16:36:24 Test set: Epoch: 19, Average mse loss: 0.1409, Time:5.00s
+20221219-16:36:24 Train Epoch: 20/60 ...
+20221219-16:38:01 Train 20 total_loss: 0.1435 lr: 0.000750 time: 1m 37s
+20221219-16:38:01 Saving checkpoint: 20
+20221219-16:38:06 Test set: Epoch: 20, Average mse loss: 0.1409, Time:4.98s
+20221219-16:38:06 Train Epoch: 21/60 ...
+20221219-16:39:45 Train 21 total_loss: 0.1435 lr: 0.000727 time: 1m 39s
+20221219-16:39:45 Saving checkpoint: 21
+20221219-16:39:50 Test set: Epoch: 21, Average mse loss: 0.1409, Time:4.76s
+20221219-16:39:50 Train Epoch: 22/60 ...
+20221219-16:41:24 Train 22 total_loss: 0.1435 lr: 0.000703 time: 1m 34s
+20221219-16:41:24 Saving checkpoint: 22
+20221219-16:41:28 Test set: Epoch: 22, Average mse loss: 0.1409, Time:4.63s
+20221219-16:41:28 Train Epoch: 23/60 ...
+20221219-16:43:02 Train 23 total_loss: 0.1435 lr: 0.000679 time: 1m 34s
+20221219-16:43:02 Saving checkpoint: 23
+20221219-16:43:07 Test set: Epoch: 23, Average mse loss: 0.1409, Time:4.75s
+20221219-16:43:07 Train Epoch: 24/60 ...
+20221219-16:44:46 Train 24 total_loss: 0.1435 lr: 0.000655 time: 1m 39s
+20221219-16:44:46 Saving checkpoint: 24
+20221219-16:44:51 Test set: Epoch: 24, Average mse loss: 0.1409, Time:4.88s
+20221219-16:44:51 Train Epoch: 25/60 ...
+20221219-16:46:24 Train 25 total_loss: 0.1435 lr: 0.000629 time: 1m 33s
+20221219-16:46:24 Saving checkpoint: 25
+20221219-16:46:29 Test set: Epoch: 25, Average mse loss: 0.1409, Time:4.65s
+20221219-16:46:29 Train Epoch: 26/60 ...
+20221219-16:48:04 Train 26 total_loss: 0.1435 lr: 0.000604 time: 1m 35s
+20221219-16:48:04 Saving checkpoint: 26
+20221219-16:48:09 Test set: Epoch: 26, Average mse loss: 0.1409, Time:4.68s
+20221219-16:48:09 Train Epoch: 27/60 ...
+20221219-16:49:42 Train 27 total_loss: 0.1435 lr: 0.000578 time: 1m 33s
+20221219-16:49:42 Saving checkpoint: 27
+20221219-16:49:47 Test set: Epoch: 27, Average mse loss: 0.1409, Time:4.77s
+20221219-16:49:47 Train Epoch: 28/60 ...
+20221219-16:51:21 Train 28 total_loss: 0.1435 lr: 0.000552 time: 1m 34s
+20221219-16:51:21 Saving checkpoint: 28
+20221219-16:51:25 Test set: Epoch: 28, Average mse loss: 0.1409, Time:4.48s
+20221219-16:51:25 Train Epoch: 29/60 ...
+20221219-16:52:58 Train 29 total_loss: 0.1435 lr: 0.000526 time: 1m 33s
+20221219-16:52:58 Saving checkpoint: 29
+20221219-16:53:03 Test set: Epoch: 29, Average mse loss: 0.1409, Time:4.61s
+20221219-16:53:03 Train Epoch: 30/60 ...
+20221219-16:54:36 Train 30 total_loss: 0.1435 lr: 0.000500 time: 1m 34s
+20221219-16:54:36 Saving checkpoint: 30
+20221219-16:54:41 Test set: Epoch: 30, Average mse loss: 0.1409, Time:4.66s
+20221219-16:54:41 Train Epoch: 31/60 ...
+20221219-16:56:17 Train 31 total_loss: 0.1435 lr: 0.000474 time: 1m 36s
+20221219-16:56:17 Saving checkpoint: 31
+20221219-16:56:22 Test set: Epoch: 31, Average mse loss: 0.1409, Time:4.77s
+20221219-16:56:22 Train Epoch: 32/60 ...
+20221219-16:57:56 Train 32 total_loss: 0.1435 lr: 0.000448 time: 1m 34s
+20221219-16:57:56 Saving checkpoint: 32
+20221219-16:58:01 Test set: Epoch: 32, Average mse loss: 0.1409, Time:4.87s
+20221219-16:58:01 Train Epoch: 33/60 ...
+20221219-16:59:35 Train 33 total_loss: 0.1435 lr: 0.000422 time: 1m 34s
+20221219-16:59:35 Saving checkpoint: 33
+20221219-16:59:40 Test set: Epoch: 33, Average mse loss: 0.1409, Time:4.73s
+20221219-16:59:40 Train Epoch: 34/60 ...
+20221219-17:01:16 Train 34 total_loss: 0.1435 lr: 0.000396 time: 1m 36s
+20221219-17:01:16 Saving checkpoint: 34
+20221219-17:01:21 Test set: Epoch: 34, Average mse loss: 0.1409, Time:4.72s
+20221219-17:01:21 Train Epoch: 35/60 ...
+20221219-17:02:57 Train 35 total_loss: 0.1435 lr: 0.000371 time: 1m 36s
+20221219-17:02:57 Saving checkpoint: 35
+20221219-17:03:02 Test set: Epoch: 35, Average mse loss: 0.1409, Time:4.73s
+20221219-17:03:02 Train Epoch: 36/60 ...
+20221219-17:04:37 Train 36 total_loss: 0.1435 lr: 0.000345 time: 1m 35s
+20221219-17:04:37 Saving checkpoint: 36
+20221219-17:04:42 Test set: Epoch: 36, Average mse loss: 0.1409, Time:4.89s
+20221219-17:04:42 Train Epoch: 37/60 ...
+20221219-17:06:18 Train 37 total_loss: 0.1435 lr: 0.000321 time: 1m 37s
+20221219-17:06:18 Saving checkpoint: 37
+20221219-17:06:23 Test set: Epoch: 37, Average mse loss: 0.1409, Time:4.79s
+20221219-17:06:23 Train Epoch: 38/60 ...
+20221219-17:07:56 Train 38 total_loss: 0.1435 lr: 0.000297 time: 1m 33s
+20221219-17:07:56 Saving checkpoint: 38
+20221219-17:08:01 Test set: Epoch: 38, Average mse loss: 0.1409, Time:4.71s
+20221219-17:08:01 Train Epoch: 39/60 ...
+20221219-17:09:37 Train 39 total_loss: 0.1435 lr: 0.000273 time: 1m 36s
+20221219-17:09:37 Saving checkpoint: 39
+20221219-17:09:42 Test set: Epoch: 39, Average mse loss: 0.1409, Time:5.03s
+20221219-17:09:42 Train Epoch: 40/60 ...
+20221219-17:11:20 Train 40 total_loss: 0.1435 lr: 0.000250 time: 1m 38s
+20221219-17:11:20 Saving checkpoint: 40
+20221219-17:11:25 Test set: Epoch: 40, Average mse loss: 0.1409, Time:4.78s
+20221219-17:11:25 Train Epoch: 41/60 ...
+20221219-17:13:01 Train 41 total_loss: 0.1435 lr: 0.000228 time: 1m 37s
+20221219-17:13:01 Saving checkpoint: 41
+20221219-17:13:06 Test set: Epoch: 41, Average mse loss: 0.1409, Time:4.74s
+20221219-17:13:06 Train Epoch: 42/60 ...
+20221219-17:14:40 Train 42 total_loss: 0.1435 lr: 0.000206 time: 1m 34s
+20221219-17:14:40 Saving checkpoint: 42
+20221219-17:14:45 Test set: Epoch: 42, Average mse loss: 0.1409, Time:4.67s
+20221219-17:14:45 Train Epoch: 43/60 ...
+20221219-17:16:19 Train 43 total_loss: 0.1435 lr: 0.000185 time: 1m 34s
+20221219-17:16:19 Saving checkpoint: 43
+20221219-17:16:23 Test set: Epoch: 43, Average mse loss: 0.1409, Time:4.63s
+20221219-17:16:23 Train Epoch: 44/60 ...
+20221219-17:17:56 Train 44 total_loss: 0.1435 lr: 0.000165 time: 1m 33s
+20221219-17:17:56 Saving checkpoint: 44
+20221219-17:18:01 Test set: Epoch: 44, Average mse loss: 0.1409, Time:4.72s
+20221219-17:18:01 Train Epoch: 45/60 ...
+20221219-17:19:35 Train 45 total_loss: 0.1435 lr: 0.000146 time: 1m 34s
+20221219-17:19:35 Saving checkpoint: 45
+20221219-17:19:39 Test set: Epoch: 45, Average mse loss: 0.1409, Time:4.67s
+20221219-17:19:39 Train Epoch: 46/60 ...
+20221219-17:21:17 Train 46 total_loss: 0.1435 lr: 0.000128 time: 1m 37s
+20221219-17:21:17 Saving checkpoint: 46
+20221219-17:21:21 Test set: Epoch: 46, Average mse loss: 0.1409, Time:4.78s
+20221219-17:21:21 Train Epoch: 47/60 ...
+20221219-17:22:55 Train 47 total_loss: 0.1435 lr: 0.000111 time: 1m 34s
+20221219-17:22:55 Saving checkpoint: 47
+20221219-17:23:00 Test set: Epoch: 47, Average mse loss: 0.1409, Time:4.65s
+20221219-17:23:00 Train Epoch: 48/60 ...
+20221219-17:24:34 Train 48 total_loss: 0.1435 lr: 0.000095 time: 1m 34s
+20221219-17:24:34 Saving checkpoint: 48
+20221219-17:24:39 Test set: Epoch: 48, Average mse loss: 0.1409, Time:4.57s
+20221219-17:24:39 Train Epoch: 49/60 ...
+20221219-17:26:12 Train 49 total_loss: 0.1435 lr: 0.000081 time: 1m 34s
+20221219-17:26:12 Saving checkpoint: 49
+20221219-17:26:17 Test set: Epoch: 49, Average mse loss: 0.1409, Time:4.61s
+20221219-17:26:17 Train Epoch: 50/60 ...
+20221219-17:27:51 Train 50 total_loss: 0.1435 lr: 0.000067 time: 1m 34s
+20221219-17:27:51 Saving checkpoint: 50
+20221219-17:27:56 Test set: Epoch: 50, Average mse loss: 0.1409, Time:4.63s
+20221219-17:27:56 Train Epoch: 51/60 ...
+20221219-17:29:35 Train 51 total_loss: 0.1435 lr: 0.000054 time: 1m 40s
+20221219-17:29:35 Saving checkpoint: 51
+20221219-17:29:40 Test set: Epoch: 51, Average mse loss: 0.1409, Time:4.78s
+20221219-17:29:40 Train Epoch: 52/60 ...
+20221219-17:31:14 Train 52 total_loss: 0.1435 lr: 0.000043 time: 1m 34s
+20221219-17:31:14 Saving checkpoint: 52
+20221219-17:31:19 Test set: Epoch: 52, Average mse loss: 0.1409, Time:4.90s
+20221219-17:31:19 Train Epoch: 53/60 ...
+20221219-17:32:53 Train 53 total_loss: 0.1435 lr: 0.000033 time: 1m 34s
+20221219-17:32:53 Saving checkpoint: 53
+20221219-17:32:58 Test set: Epoch: 53, Average mse loss: 0.1409, Time:4.68s
+20221219-17:32:58 Train Epoch: 54/60 ...
+20221219-17:34:31 Train 54 total_loss: 0.1435 lr: 0.000024 time: 1m 33s
+20221219-17:34:31 Saving checkpoint: 54
+20221219-17:34:35 Test set: Epoch: 54, Average mse loss: 0.1409, Time:4.56s
+20221219-17:34:35 Train Epoch: 55/60 ...
+20221219-17:36:09 Train 55 total_loss: 0.1435 lr: 0.000017 time: 1m 34s
+20221219-17:36:09 Saving checkpoint: 55
+20221219-17:36:14 Test set: Epoch: 55, Average mse loss: 0.1409, Time:4.72s
+20221219-17:36:14 Train Epoch: 56/60 ...
+20221219-17:37:47 Train 56 total_loss: 0.1435 lr: 0.000011 time: 1m 34s
+20221219-17:37:47 Saving checkpoint: 56
+20221219-17:37:52 Test set: Epoch: 56, Average mse loss: 0.1409, Time:4.54s
+20221219-17:37:52 Train Epoch: 57/60 ...
+20221219-17:39:28 Train 57 total_loss: 0.1435 lr: 0.000006 time: 1m 36s
+20221219-17:39:28 Saving checkpoint: 57
+20221219-17:39:33 Test set: Epoch: 57, Average mse loss: 0.1409, Time:4.81s
+20221219-17:39:33 Train Epoch: 58/60 ...
+20221219-17:41:09 Train 58 total_loss: 0.1435 lr: 0.000003 time: 1m 36s
+20221219-17:41:09 Saving checkpoint: 58
+20221219-17:41:14 Test set: Epoch: 58, Average mse loss: 0.1409, Time:4.84s
+20221219-17:41:14 Train Epoch: 59/60 ...
+20221219-17:42:47 Train 59 total_loss: 0.1435 lr: 0.000001 time: 1m 33s
+20221219-17:42:47 Saving checkpoint: 59
+20221219-17:42:52 Test set: Epoch: 59, Average mse loss: 0.1409, Time:4.63s
+20221219-17:42:52 Train Epoch: 60/60 ...
+20221219-17:44:26 Train 60 total_loss: 0.1435 lr: 0.000001 time: 1m 34s
+20221219-17:44:26 Saving checkpoint: 60
+20221219-17:44:30 Test set: Epoch: 60, Average mse loss: 0.1409, Time:4.65s
+20221220-10:35:55 ==================================================
+20221221-13:29:36 ==================================================
+20221221-13:29:37 Train datast: ['IQIYI/iQIYI-VID-FACE/']
+20221221-13:29:37 Train dataset nums: 400000
+20221221-13:29:37 Val datast: ['IQIYI/iQIYI-VID-FACE/']
+20221221-13:29:37 Val dataset nums: 30026
+20221221-13:29:37 batch size: 256
+20221221-13:29:39 load ckpt: train_model/blurness/060.ckpt
+20221221-13:29:39 Train Epoch: 61/70 ...
+20221221-13:31:48 Train 61 total_loss: 0.1435 lr: 0.001000 time: 2m 9s
+20221221-13:31:48 Saving checkpoint: 61
+20221221-13:31:56 Test set: Epoch: 61, Average mse loss: 0.1409, Time:7.37s
+20221221-13:31:56 Train Epoch: 62/70 ...
+20221221-13:34:05 Train 62 total_loss: 0.1435 lr: 0.000970 time: 2m 10s
+20221221-13:34:05 Saving checkpoint: 62
+20221221-13:34:12 Test set: Epoch: 62, Average mse loss: 0.1409, Time:6.40s
+20221221-13:34:12 Train Epoch: 63/70 ...
+20221221-13:36:21 Train 63 total_loss: 0.1435 lr: 0.000883 time: 2m 9s
+20221221-13:36:21 Saving checkpoint: 63
+20221221-13:36:28 Test set: Epoch: 63, Average mse loss: 0.1409, Time:6.62s
+20221221-13:36:28 Train Epoch: 64/70 ...
